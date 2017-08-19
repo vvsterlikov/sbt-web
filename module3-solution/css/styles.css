@@ -1,0 +1,14 @@
+#navbar {
+	border: 1px solid blue;
+	background-color: #11F255;
+}
+li p {
+	color : grey;
+}
+#section {
+	border: 1px solid blue;
+	background-color: #11F255;
+	color: black;
+	height: 1000px;
+	padding : 10px;
+}
